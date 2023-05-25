@@ -1,7 +1,7 @@
 {
-  "author": "Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
+  "author": "Forked from Felix Geisendörfer <felix@debuggable.com> (http://debuggable.com/)",
   "name": "form-data",
-  "description": "A library to create readable \"multipart/form-data\" streams. Can be used to submit forms and file uploads to other web applications.",
+  "description": "Cool. A library to create readable \"multipart/form-data\" streams. Can be used to submit forms and file uploads to other web applications.",
   "version": "4.0.0",
   "repository": {
     "type": "git",
